@@ -14,9 +14,9 @@
   <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
     SYNC LICENSING &amp; CUE SHEET CLEARANCE DISPATCH
   </text>
-  <rect x="1050" y="18" width="170" height="34" rx="4" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
-  <text x="1135" y="40" text-anchor="middle" fill="#38bdf8" font-family="sans-serif" font-size="12" font-weight="700">
-    $19,700 YR-1 SYNC YIELD
+  <rect x="990" y="18" width="230" height="34" rx="4" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <text x="1105" y="40" text-anchor="middle" fill="#38bdf8" font-family="sans-serif" font-size="12" font-weight="700">
+    100% PRE-CLEARED CATALOG
   </text>
 
   <!-- Six Placement Cards: 3x2 Grid -->
@@ -32,7 +32,7 @@
       <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Background Instrumental Cue</text>
       <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: Worldwide Streaming (190+ Countries)</text>
       <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
-      <text x="14" y="162" fill="#ef4444" font-family="sans-serif" font-size="20" font-weight="700">$4,500 <tspan font-size="11" fill="#9ca3af">Upfront Fee</tspan></text>
+      <text x="14" y="162" fill="#ef4444" font-family="sans-serif" font-size="16" font-weight="700">Master &amp; Sync Cleared <tspan font-size="11" fill="#9ca3af">Worldwide Rights</tspan></text>
       <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Full stems + ASCAP cue sheet filed</text>
     </g>
 
@@ -47,8 +47,8 @@
       <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Underscore Dialogue Bed</text>
       <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: Worldwide (12 Territories)</text>
       <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
-      <text x="14" y="162" fill="#ef4444" font-family="sans-serif" font-size="20" font-weight="700">$1,500 <tspan font-size="11" fill="#9ca3af">Upfront Fee</tspan></text>
-      <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Non-exclusive • 2-year term</text>
+      <text x="14" y="162" fill="#ef4444" font-family="sans-serif" font-size="16" font-weight="700">Master &amp; Sync Cleared <tspan font-size="11" fill="#9ca3af">2-Year Term</tspan></text>
+      <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Non-exclusive • Full stem archive filed</text>
     </g>
 
     <!-- Card 3: Commercial Ad (Automotive) -->
@@ -62,7 +62,7 @@
       <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Hero Campaign Track (60s TV &amp; Web)</text>
       <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: North America &amp; UK (1-Year Term)</text>
       <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
-      <text x="14" y="162" fill="#3b82f6" font-family="sans-serif" font-size="20" font-weight="700">$8,000 <tspan font-size="11" fill="#9ca3af">Master + Sync Fee</tspan></text>
+      <text x="14" y="162" fill="#3b82f6" font-family="sans-serif" font-size="16" font-weight="700">Commercial Sync Cleared <tspan font-size="11" fill="#9ca3af">Broadcast &amp; Web</tspan></text>
       <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">30s cutdowns + loop stems provided</text>
     </g>
 
@@ -77,7 +77,7 @@
       <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: 30s Social Cutdown</text>
       <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: North America (6-Month Term)</text>
       <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
-      <text x="14" y="162" fill="#3b82f6" font-family="sans-serif" font-size="20" font-weight="700">$1,200 <tspan font-size="11" fill="#9ca3af">Master + Sync Fee</tspan></text>
+      <text x="14" y="162" fill="#3b82f6" font-family="sans-serif" font-size="16" font-weight="700">Commercial Sync Cleared <tspan font-size="11" fill="#9ca3af">Social Paid Ads</tspan></text>
       <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Publishing pre-cleared</text>
     </g>
 
@@ -92,7 +92,7 @@
       <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Theatrical Trailer &amp; End Credits</text>
       <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: Worldwide Theatrical &amp; Digital</text>
       <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
-      <text x="14" y="162" fill="#a855f7" font-family="sans-serif" font-size="20" font-weight="700">$3,000 <tspan font-size="11" fill="#9ca3af">Sync License</tspan></text>
+      <text x="14" y="162" fill="#a855f7" font-family="sans-serif" font-size="16" font-weight="700">Theatrical Sync Cleared <tspan font-size="11" fill="#9ca3af">Trailer &amp; VOD</tspan></text>
       <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">High-res 24-bit WAV stems delivered</text>
     </g>
 
@@ -107,7 +107,7 @@
       <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Main Title &amp; Credit Cue</text>
       <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: Festival + Streaming Rights</text>
       <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
-      <text x="14" y="162" fill="#a855f7" font-family="sans-serif" font-size="20" font-weight="700">$1,500 <tspan font-size="11" fill="#9ca3af">Sync License</tspan></text>
+      <text x="14" y="162" fill="#a855f7" font-family="sans-serif" font-size="16" font-weight="700">Theatrical Sync Cleared <tspan font-size="11" fill="#9ca3af">Festival &amp; Streaming</tspan></text>
       <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Festival circuit placements secured</text>
     </g>
   </g>
@@ -115,12 +115,13 @@
   <!-- Bottom Readiness Stat Bar -->
   <g transform="translate(60, 580)">
     <rect x="0" y="0" width="1160" height="85" rx="8" fill="#16181f" stroke="#282b35" stroke-width="1"/>
-    <text x="30" y="46" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="600">
+    <text x="30" y="48" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="700" letter-spacing="0.5">
       CATALOG SYNC-READINESS AUDIT:
     </text>
-    <text x="340" y="46" fill="#9ca3af" font-family="sans-serif" font-size="13">
-      100% One-Stop Clearance • Full Instrumental Stems Available • Explicit Metadata Tagging (BPM/Key/Mood)
+    <text x="320" y="48" fill="#9ca3af" font-family="sans-serif" font-size="12.5">
+      100% One-Stop Clearance • Full Instrumental Stems • Explicit Metadata Tagging (BPM/Key/Mood)
     </text>
-    <text x="1080" y="46" fill="#d4af37" font-family="sans-serif" font-size="14" font-weight="700">6 PLACEMENTS</text>
+    <rect x="985" y="24" width="150" height="37" rx="6" fill="#d4af37"/>
+    <text x="1060" y="48" text-anchor="middle" fill="#0b0c10" font-family="sans-serif" font-size="13" font-weight="800" letter-spacing="0.5">6 PLACEMENTS</text>
   </g>
 </svg>
