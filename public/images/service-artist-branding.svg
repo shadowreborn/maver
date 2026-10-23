@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="brBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#131417"/>
+      <stop offset="100%" stop-color="#0a0a0c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#brBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181920"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#262833" stroke-width="1"/>
+  <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    ARTIST BRANDING — COMPLETE VISUAL IDENTITY &amp; TYPOGRAPHY SYSTEM
+  </text>
+  <rect x="1050" y="18" width="170" height="34" rx="4" fill="#d4af37"/>
+  <text x="1135" y="40" text-anchor="middle" fill="#000000" font-family="sans-serif" font-size="12" font-weight="800">
+    FULL BRAND SYSTEM
+  </text>
+
+  <!-- Branding Manual Board -->
+  <g transform="translate(60, 95)">
+    <rect x="0" y="0" width="1160" height="570" rx="8" fill="#15171e" stroke="#2a2d39" stroke-width="1.5"/>
+
+    <!-- Left: Identity Hierarchy & Typography -->
+    <g transform="translate(40, 40)">
+      <text x="0" y="25" fill="#d4af37" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2">01 / TYPOGRAPHIC SYSTEM</text>
+      <text x="0" y="80" fill="#ffffff" font-family="sans-serif" font-size="44" font-weight="800" letter-spacing="4">RAPHO MUSIC</text>
+      <text x="0" y="115" fill="#9ca3af" font-family="sans-serif" font-size="15" letter-spacing="2">INDEPENDENT VISION • GLOBAL SOUND</text>
+
+      <text x="0" y="180" fill="#d4af37" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 / COLOR PALETTE (GOLD &amp; OBSIDIAN)</text>
+      <!-- Color Chips -->
+      <g transform="translate(0, 205)">
+        <rect x="0" y="0" width="80" height="60" rx="4" fill="#0c0d10" stroke="#333" stroke-width="1"/>
+        <text x="40" y="80" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="10">#0C0D10</text>
+
+        <rect x="95" y="0" width="80" height="60" rx="4" fill="#1b1d24" stroke="#333" stroke-width="1"/>
+        <text x="135" y="80" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="10">#1B1D24</text>
+
+        <rect x="190" y="0" width="80" height="60" rx="4" fill="#d4af37"/>
+        <text x="230" y="80" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="10">#D4AF37</text>
+
+        <rect x="285" y="0" width="80" height="60" rx="4" fill="#f5e086"/>
+        <text x="325" y="80" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="10">#F5E086</text>
+
+        <rect x="380" y="0" width="80" height="60" rx="4" fill="#ffffff"/>
+        <text x="420" y="80" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="10">#FFFFFF</text>
+      </g>
+    </g>
+
+    <!-- Right: Brand Guidelines & Case Study -->
+    <g transform="translate(560, 40)">
+      <rect x="0" y="0" width="560" height="480" rx="8" fill="#1c1f29" stroke="#2f3445" stroke-width="1"/>
+      <g transform="translate(35, 40)">
+        <text x="0" y="20" fill="#d4af37" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1">INDUSTRY BENCHMARK STUDY</text>
+        <text x="0" y="55" fill="#ffffff" font-family="sans-serif" font-size="24" font-weight="700">Pink Floyd Records — Label Identity</text>
+        <text x="0" y="85" fill="#9ca3af" font-family="sans-serif" font-size="13">Designed by Pentagram with Aubrey Powell (Hipgnosis)</text>
+
+        <line x1="0" y1="115" x2="490" y2="115" stroke="#2d3242" stroke-width="1"/>
+
+        <text x="0" y="150" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="600">DELIVERABLES DELIVERED:</text>
+        <text x="0" y="180" fill="#34d399" font-family="sans-serif" font-size="13">✓ Custom 26-Letter Alphabet &amp; Type Hierarchy</text>
+        <text x="0" y="210" fill="#34d399" font-family="sans-serif" font-size="13">✓ 27-Disc Box Set Packaging System</text>
+        <text x="0" y="240" fill="#34d399" font-family="sans-serif" font-size="13">✓ Social, Merchandise &amp; Tour Brand Assets</text>
+        <text x="0" y="270" fill="#34d399" font-family="sans-serif" font-size="13">✓ Tone-of-Voice &amp; 10-Word Artist Bio Architecture</text>
+
+        <rect x="0" y="320" width="490" height="70" rx="6" fill="#15171f"/>
+        <text x="20" y="350" fill="#ffffff" font-family="sans-serif" font-size="13" font-weight="600">Metric Impact:</text>
+        <text x="20" y="372" fill="#d4af37" font-family="sans-serif" font-size="13">3 Custom Type Cuts • Cohesive Identity Across 50+ Global Touchpoints</text>
+      </g>
+    </g>
+  </g>
+</svg>

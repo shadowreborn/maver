@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18191c"/>
+      <stop offset="100%" stop-color="#101114"/>
+    </linearGradient>
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#23262d"/>
+      <stop offset="100%" stop-color="#1b1c20"/>
+    </linearGradient>
+    <linearGradient id="goldAcc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#f5e086"/>
+    </linearGradient>
+    <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c3038"/>
+      <stop offset="100%" stop-color="#16181d"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+
+  <!-- Google Search Header Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#1b1c20" border-bottom="1px solid #30333a"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#30333d" stroke-width="1"/>
+  
+  <!-- Google Logo Colors -->
+  <text x="60" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="700">
+    <tspan fill="#4285F4">G</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">o</tspan><tspan fill="#4285F4">g</tspan><tspan fill="#34A853">l</tspan><tspan fill="#EA4335">e</tspan>
+  </text>
+
+  <!-- Search Input Box -->
+  <rect x="180" y="16" width="580" height="40" rx="20" fill="#292c34" stroke="#3c404a" stroke-width="1"/>
+  <text x="210" y="41" fill="#e8eaed" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500">
+    Kendall Street (Musical Artist)
+  </text>
+  <!-- Search icon -->
+  <circle cx="730" cy="36" r="6" stroke="#9aa0a6" stroke-width="2" fill="none"/>
+  <line x1="735" y1="41" x2="742" y2="48" stroke="#9aa0a6" stroke-width="2"/>
+
+  <!-- SERP Left Column: Organic Results Mockup -->
+  <g transform="translate(60, 100)">
+    <text x="0" y="20" fill="#9aa0a6" font-family="sans-serif" font-size="12">About 4,820,000 results (0.38 seconds)</text>
+    
+    <!-- Result 1 -->
+    <text x="0" y="60" fill="#bdc1c6" font-family="sans-serif" font-size="12">https://kendallstreet.com</text>
+    <text x="0" y="85" fill="#8ab4f8" font-family="sans-serif" font-size="20" font-weight="500">Kendall Street — Official Website &amp; Discography</text>
+    <text x="0" y="112" fill="#9aa0a6" font-family="sans-serif" font-size="13" width="500">
+      Official hub for releases, tour dates, music videos, and merchandise. Stream the new album...
+    </text>
+
+    <!-- Result 2 -->
+    <text x="0" y="165" fill="#bdc1c6" font-family="sans-serif" font-size="12">https://open.spotify.com › artist › kendallstreet</text>
+    <text x="0" y="190" fill="#8ab4f8" font-family="sans-serif" font-size="20" font-weight="500">Kendall Street | Spotify</text>
+    <text x="0" y="217" fill="#9aa0a6" font-family="sans-serif" font-size="13">
+      Listen to Kendall Street on Spotify. Artist · 2.5M monthly listeners. Top tracks include...
+    </text>
+
+    <!-- Result 3 -->
+    <text x="0" y="270" fill="#bdc1c6" font-family="sans-serif" font-size="12">https://music.apple.com › artist › kendall-street</text>
+    <text x="0" y="295" fill="#8ab4f8" font-family="sans-serif" font-size="20" font-weight="500">Kendall Street on Apple Music</text>
+    <text x="0" y="322" fill="#9aa0a6" font-family="sans-serif" font-size="13">
+      Listen to music by Kendall Street on Apple Music. Find top songs and albums including...
+    </text>
+
+    <!-- Verification Badge Highlight Callout -->
+    <rect x="0" y="380" width="520" height="150" rx="8" fill="#1e2229" stroke="#d4af37" stroke-width="1.5" stroke-dasharray="6,4"/>
+    <text x="24" y="415" fill="#d4af37" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">GOOGLE KNOWLEDGE GRAPH AUDIT</text>
+    <text x="24" y="445" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="600">Entity Resolution &amp; Structured Schema Deployed</text>
+    <text x="24" y="475" fill="#9aa0a6" font-family="sans-serif" font-size="12.5" line-height="18">
+      MusicBrainz ID + Wikidata entity + Schema.org (MusicGroup) integration
+    </text>
+    <text x="24" y="500" fill="#34A853" font-family="sans-serif" font-size="13" font-weight="600">✓ Knowledge Panel Claimed &amp; Verified across Google Search</text>
+  </g>
+
+  <!-- SERP Right Column: THE OFFICIAL GOOGLE KNOWLEDGE PANEL -->
+  <g transform="translate(680, 95)" filter="url(#shadow)">
+    <!-- Panel Container -->
+    <rect x="0" y="0" width="540" height="595" rx="12" fill="url(#panelBg)" stroke="#383c46" stroke-width="1.5"/>
+
+    <!-- Knowledge Panel Header Banner Image -->
+    <rect x="0" y="0" width="540" height="170" rx="12" fill="url(#avatarGrad)"/>
+    <rect x="0" y="140" width="540" height="30" fill="url(#panelBg)"/>
+    
+    <!-- Graphic silhouette & concert lighting inside banner -->
+    <circle cx="270" cy="85" r="50" fill="#d4af37" opacity="0.15"/>
+    <circle cx="270" cy="85" r="32" fill="#d4af37" opacity="0.3"/>
+    <path d="M220,150 Q270,100 320,150 Z" fill="#23262d"/>
+    <text x="270" y="92" text-anchor="middle" fill="#d4af37" font-family="sans-serif" font-size="14" font-weight="600" letter-spacing="2">OFFICIAL ARTIST ENTITY</text>
+
+    <!-- Header Details -->
+    <text x="28" y="200" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="700">
+      Kendall Street
+    </text>
+    <text x="28" y="224" fill="#9aa0a6" font-family="sans-serif" font-size="14" font-weight="500">
+      Musical artist
+    </text>
+
+    <!-- Verified Badge Pill -->
+    <rect x="140" y="210" width="130" height="20" rx="10" fill="#1a3b5c" stroke="#4285F4" stroke-width="1"/>
+    <circle cx="152" cy="220" r="5" fill="#4285F4"/>
+    <path d="M150,220 L152,222 L155,218" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+    <text x="164" y="224" fill="#8ab4f8" font-family="sans-serif" font-size="10.5" font-weight="600">VERIFIED ENTITY</text>
+
+    <!-- Claim Badge Button -->
+    <rect x="370" y="185" width="142" height="34" rx="6" fill="#2d323c" stroke="#4a505e" stroke-width="1"/>
+    <text x="441" y="206" text-anchor="middle" fill="#8ab4f8" font-family="sans-serif" font-size="11.5" font-weight="600">✓ Claimed Profile</text>
+
+    <line x1="28" y1="245" x2="512" y2="245" stroke="#32353e" stroke-width="1"/>
+
+    <!-- Overview Bio -->
+    <text x="28" y="272" fill="#e8eaed" font-family="sans-serif" font-size="13" font-weight="400">
+      Kendall Street is an independent producer and electronic recording
+    </text>
+    <text x="28" y="292" fill="#e8eaed" font-family="sans-serif" font-size="13" font-weight="400">
+      artist with over 75 million catalog streams. Formed in Sydney, Australia.
+    </text>
+
+    <line x1="28" y1="315" x2="512" y2="315" stroke="#32353e" stroke-width="1"/>
+
+    <!-- "Listen" Section (Crucial Google Knowledge Panel Element) -->
+    <text x="28" y="342" fill="#9aa0a6" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1">LISTEN</text>
+    
+    <!-- Platform Pills -->
+    <g transform="translate(28, 355)">
+      <!-- Spotify -->
+      <rect x="0" y="0" width="112" height="36" rx="6" fill="#1f232b" stroke="#1DB954" stroke-width="1"/>
+      <circle cx="18" cy="18" r="8" fill="#1DB954"/>
+      <text x="34" y="22" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="600">Spotify</text>
+
+      <!-- Apple Music -->
+      <rect x="122" y="0" width="120" height="36" rx="6" fill="#1f232b" stroke="#FC3C44" stroke-width="1"/>
+      <circle cx="140" cy="18" r="8" fill="#FC3C44"/>
+      <text x="156" y="22" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="600">Apple Music</text>
+
+      <!-- YouTube Music -->
+      <rect x="252" y="0" width="124" height="36" rx="6" fill="#1f232b" stroke="#FF0000" stroke-width="1"/>
+      <circle cx="270" cy="18" r="8" fill="#FF0000"/>
+      <text x="286" y="22" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="600">YouTube</text>
+
+      <!-- Deezer -->
+      <rect x="386" y="0" width="98" height="36" rx="6" fill="#1f232b" stroke="#A238FF" stroke-width="1"/>
+      <circle cx="402" cy="18" r="8" fill="#A238FF"/>
+      <text x="418" y="22" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="600">Deezer</text>
+    </g>
+
+    <line x1="28" y1="410" x2="512" y2="410" stroke="#32353e" stroke-width="1"/>
+
+    <!-- Popular Releases / Songs Snippet -->
+    <text x="28" y="435" fill="#9aa0a6" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1">TOP SONGS</text>
+    
+    <g transform="translate(28, 450)">
+      <rect x="0" y="0" width="484" height="34" rx="4" fill="#252830"/>
+      <text x="14" y="21" fill="#e8eaed" font-family="sans-serif" font-size="12" font-weight="500">1. Higher State (Original Mix)</text>
+      <text x="440" y="21" fill="#9aa0a6" font-family="sans-serif" font-size="11">2024</text>
+      
+      <rect x="0" y="40" width="484" height="34" rx="4" fill="#252830"/>
+      <text x="14" y="61" fill="#e8eaed" font-family="sans-serif" font-size="12" font-weight="500">2. Nightfall Odyssey</text>
+      <text x="440" y="61" fill="#9aa0a6" font-family="sans-serif" font-size="11">2023</text>
+    </g>
+
+    <!-- Social Profiles Footer Bar -->
+    <g transform="translate(28, 545)">
+      <text x="0" y="16" fill="#9aa0a6" font-family="sans-serif" font-size="11" font-weight="600">PROFILES:</text>
+      <text x="75" y="16" fill="#8ab4f8" font-family="sans-serif" font-size="11" font-weight="500">Instagram • YouTube • Spotify • Twitter / X • Soundcloud</text>
+    </g>
+  </g>
+</svg>

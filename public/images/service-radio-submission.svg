@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="radBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#131418"/>
+      <stop offset="100%" stop-color="#0a0b0d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#radBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181920"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#282a34" stroke-width="1"/>
+  <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    RADIO PROMOTION &amp; AIRPLAY MONITORING DISPATCH
+  </text>
+  <rect x="1030" y="18" width="190" height="34" rx="4" fill="#d97706"/>
+  <text x="1125" y="41" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="700">
+    #14 ON NACC CHARTS
+  </text>
+
+  <!-- Metric Overview Cards -->
+  <g transform="translate(60, 95)">
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#1a1c23" stroke="#2c2f3b" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="15" font-weight="700">CHART POSITION</text>
+      <text x="24" y="80" fill="#d4af37" font-family="sans-serif" font-size="38" font-weight="700">#14</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="14">NACC College &amp; Non-Comm Top 20</text>
+    </g>
+
+    <g transform="translate(295, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#1a1c23" stroke="#2c2f3b" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="15" font-weight="700">STATIONS ADDED</text>
+      <text x="24" y="80" fill="#38bdf8" font-family="sans-serif" font-size="38" font-weight="700">68</text>
+      <text x="24" y="104" fill="#9ca3af" font-family="sans-serif" font-size="14">US &amp; UK indie &amp; college radio</text>
+    </g>
+
+    <g transform="translate(590, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#1a1c23" stroke="#2c2f3b" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="15" font-weight="700">WEEKLY SPINS</text>
+      <text x="24" y="80" fill="#10b981" font-family="sans-serif" font-size="38" font-weight="700">1,420</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="14">Tracked via Mediabase</text>
+    </g>
+
+    <g transform="translate(885, 0)">
+      <rect x="0" y="0" width="275" height="120" rx="8" fill="#1a1c23" stroke="#2c2f3b" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="15" font-weight="700">AUDIENCE REACH</text>
+      <text x="24" y="80" fill="#a855f7" font-family="sans-serif" font-size="38" font-weight="700">850K</text>
+      <text x="24" y="104" fill="#9ca3af" font-family="sans-serif" font-size="14">Broadcast radio audience</text>
+    </g>
+  </g>
+
+  <!-- Airplay Trajectory & Stations Grid -->
+  <g transform="translate(60, 245)">
+    <rect x="0" y="0" width="1160" height="420" rx="8" fill="#15171d" stroke="#292c36" stroke-width="1.5"/>
+    <text x="30" y="40" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">
+      CONFIRMED ROTATION &amp; CURATOR SUBMISSION LOG
+    </text>
+
+    <!-- Key Outlets -->
+    <g transform="translate(30, 65)">
+      <rect x="0" y="0" width="350" height="150" rx="6" fill="#1b1d25" stroke="#2a2e38" stroke-width="1"/>
+      <text x="20" y="36" fill="#d4af37" font-family="sans-serif" font-size="18" font-weight="700">BBC Radio 6 Music</text>
+      <text x="20" y="62" fill="#9ca3af" font-family="sans-serif" font-size="15">Specialist Indie Rotation</text>
+      <text x="20" y="88" fill="#ffffff" font-family="sans-serif" font-size="15">"Spotlight Track" — Evening Show</text>
+      <rect x="20" y="104" width="310" height="34" rx="6" fill="#0f2a1f" stroke="#34d399" stroke-width="1"/>
+      <text x="175" y="126" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="13" font-weight="700">✓ WEEKLY ROTATION • 12 SPINS THIS WEEK</text>
+
+      <rect x="375" y="0" width="350" height="150" rx="6" fill="#1b1d25" stroke="#2a2e38" stroke-width="1"/>
+      <text x="395" y="36" fill="#38bdf8" font-family="sans-serif" font-size="18" font-weight="700">SiriusXM (XMU Channel)</text>
+      <text x="395" y="62" fill="#9ca3af" font-family="sans-serif" font-size="15">National Satellite Radio</text>
+      <text x="395" y="88" fill="#ffffff" font-family="sans-serif" font-size="15">Added to Medium Rotation nationwide</text>
+      <rect x="395" y="104" width="310" height="34" rx="6" fill="#0f2a1f" stroke="#34d399" stroke-width="1"/>
+      <text x="550" y="126" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="13" font-weight="700">✓ MEDIUM ROTATION • 24 SPINS NATIONWIDE</text>
+
+      <rect x="750" y="0" width="350" height="150" rx="6" fill="#1b1d25" stroke="#2a2e38" stroke-width="1"/>
+      <text x="770" y="36" fill="#a855f7" font-family="sans-serif" font-size="18" font-weight="700">KEXP Seattle &amp; KCRW LA</text>
+      <text x="770" y="62" fill="#9ca3af" font-family="sans-serif" font-size="15">Tastemaker Non-Comm Radio</text>
+      <text x="770" y="88" fill="#ffffff" font-family="sans-serif" font-size="15">On-air interview &amp; drive-time spin</text>
+      <rect x="770" y="104" width="310" height="34" rx="6" fill="#0f2a1f" stroke="#34d399" stroke-width="1"/>
+      <text x="925" y="126" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="13" font-weight="700">✓ TASTEMAKER ROTATION • KEXP + KCRW</text>
+    </g>
+
+    <!-- Chart Progress Bar -->
+    <g transform="translate(30, 245)">
+      <text x="0" y="26" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="600">NACC TOP 200 CHART PROGRESSION (6-WEEK CAMPAIGN):</text>
+      <rect x="0" y="45" width="1100" height="40" rx="6" fill="#1d2028"/>
+      <!-- Trajectory bar -->
+      <rect x="0" y="45" width="880" height="40" rx="6" fill="#d97706" opacity="0.4"/>
+      <text x="30" y="71" fill="#ffffff" font-family="sans-serif" font-size="17">Debut: #182</text>
+      <text x="280" y="71" fill="#ffffff" font-family="sans-serif" font-size="17">Week 2: #88</text>
+      <text x="540" y="71" fill="#ffffff" font-family="sans-serif" font-size="17">Week 4: #34</text>
+      <text x="820" y="71" fill="#ffffff" font-family="sans-serif" font-size="17" font-weight="700">Peak: #14 Top 20 ★</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="cdBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141416"/>
+      <stop offset="100%" stop-color="#0a0a0c"/>
+    </linearGradient>
+    <radialGradient id="vinylGrooves" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="20%" stop-color="#1c1c1c"/>
+      <stop offset="40%" stop-color="#141414"/>
+      <stop offset="60%" stop-color="#242424"/>
+      <stop offset="80%" stop-color="#181818"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#cdBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#18191f"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#272a33" stroke-width="1"/>
+  <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    PHYSICAL CD &amp; VINYL RUN — DIRECT-TO-CONSUMER RELEASE
+  </text>
+  <rect x="1050" y="18" width="170" height="34" rx="4" fill="#d97706"/>
+  <text x="1135" y="40" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="700">
+    SOLD OUT (1,200 UNITS)
+  </text>
+
+  <!-- Left: Vinyl & Digipak CD Mockup Visual -->
+  <g transform="translate(60, 110)">
+    <!-- Vinyl Disc Graphic -->
+    <circle cx="280" cy="240" r="190" fill="url(#vinylGrooves)" stroke="#333333" stroke-width="2"/>
+    <circle cx="280" cy="240" r="140" fill="none" stroke="#222222" stroke-width="1"/>
+    <circle cx="280" cy="240" r="100" fill="none" stroke="#282828" stroke-width="1"/>
+    <!-- Vinyl Center Label -->
+    <circle cx="280" cy="240" r="65" fill="#d4af37"/>
+    <circle cx="280" cy="240" r="12" fill="#000000"/>
+    <text x="280" y="235" text-anchor="middle" fill="#000000" font-family="sans-serif" font-size="10" font-weight="800">LIMITED EDITION</text>
+    <text x="280" y="255" text-anchor="middle" fill="#000000" font-family="sans-serif" font-size="12" font-weight="700">33⅓ RPM</text>
+
+    <!-- Gatefold CD Digipak Sleeve Mockup -->
+    <rect x="30" y="60" width="280" height="280" rx="8" fill="#20222a" stroke="#d4af37" stroke-width="2"/>
+    <!-- Cover Design Inside Sleeve -->
+    <rect x="45" y="75" width="250" height="250" rx="4" fill="#181a20"/>
+    <circle cx="170" cy="180" r="50" fill="#d4af37" opacity="0.3"/>
+    <text x="170" y="175" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700">DELUXE</text>
+    <text x="170" y="195" text-anchor="middle" fill="#d4af37" font-family="sans-serif" font-size="10" font-weight="600" letter-spacing="3">COLLECTOR VINYL</text>
+    <text x="170" y="280" text-anchor="middle" fill="#9ca3af" font-family="sans-serif" font-size="11">180g Heavyweight Vinyl + 6-Panel CD</text>
+  </g>
+
+  <!-- Right: Production & Sales Metrics -->
+  <g transform="translate(580, 110)">
+    <!-- Card 1: Production Run -->
+    <rect x="0" y="0" width="640" height="150" rx="8" fill="#181a22" stroke="#2b2e3a" stroke-width="1"/>
+    <text x="30" y="40" fill="#d4af37" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1">MANUFACTURING &amp; PACKAGING SPECS</text>
+    <text x="30" y="75" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">Deluxe 6-Panel Digipak CD + 12" Vinyl</text>
+    <text x="30" y="105" fill="#9ca3af" font-family="sans-serif" font-size="13">
+      Matte lamination, gold foil stamped lettering, anti-scratch finish, full 16-page lyric booklet.
+    </text>
+    <text x="30" y="130" fill="#34d399" font-family="sans-serif" font-size="12" font-weight="600">✓ Plant Turnaround Time: 18 Business Days</text>
+
+    <!-- Card 2: Sales Metrics -->
+    <rect x="0" y="175" width="640" height="180" rx="8" fill="#181a22" stroke="#2b2e3a" stroke-width="1"/>
+    <text x="30" y="210" fill="#38bdf8" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1">D2C DIRECT-TO-FAN COMMERCIAL RESULTS</text>
+    
+    <g transform="translate(30, 230)">
+      <text x="0" y="35" fill="#ffffff" font-family="sans-serif" font-size="34" font-weight="700">$28,500</text>
+      <text x="0" y="60" fill="#9ca3af" font-family="sans-serif" font-size="11">GROSS D2C MERCH SALES</text>
+
+      <text x="230" y="35" fill="#d4af37" font-family="sans-serif" font-size="34" font-weight="700">1,200</text>
+      <text x="230" y="60" fill="#9ca3af" font-family="sans-serif" font-size="11">PHYSICAL UNITS PRESSED</text>
+
+      <text x="440" y="35" fill="#10b981" font-family="sans-serif" font-size="34" font-weight="700">100%</text>
+      <text x="440" y="60" fill="#9ca3af" font-family="sans-serif" font-size="11">SELL-OUT RATE IN 72 HRS</text>
+    </g>
+
+    <text x="30" y="335" fill="#9ca3af" font-family="sans-serif" font-size="12">
+      Storefront Integration: Bandcamp Friday + Shopify Custom Storefront + Worldwide Fulfillment
+    </text>
+  </g>
+
+  <!-- Bottom Fulfillment Guarantee -->
+  <g transform="translate(60, 580)">
+    <rect x="0" y="0" width="1160" height="85" rx="8" fill="#15171d" stroke="#272a33" stroke-width="1"/>
+    <text x="30" y="46" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="600">
+      FULFILLMENT &amp; BARCODE MANAGEMENT:
+    </text>
+    <text x="360" y="46" fill="#9ca3af" font-family="sans-serif" font-size="13">
+      Official EAN/UPC Barcodes Registered • Discogs Database Logging • Global Tracked Shipping
+    </text>
+    <text x="1060" y="46" fill="#34d399" font-family="sans-serif" font-size="14" font-weight="700">✓ DELIVERED</text>
+  </g>
+</svg>

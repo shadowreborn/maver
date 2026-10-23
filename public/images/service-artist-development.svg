@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="devBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#131417"/>
+      <stop offset="100%" stop-color="#0a0a0c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#devBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181920"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#252733" stroke-width="1"/>
+  <text x="60" y="44" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700" letter-spacing="1">
+    ARTIST DEVELOPMENT — CAREER ROADMAP &amp; GROWTH
+  </text>
+  <rect x="970" y="18" width="250" height="34" rx="4" fill="#10b981"/>
+  <text x="1095" y="42" text-anchor="middle" fill="#000000" font-family="sans-serif" font-size="20" font-weight="800">
+    SUSTAINED GROWTH
+  </text>
+
+  <!-- Roadmap Timeline Flow -->
+  <g transform="translate(60, 95)">
+    <rect x="0" y="0" width="1160" height="570" rx="8" fill="#15171d" stroke="#292c37" stroke-width="1.5"/>
+
+    <!-- 4 Phases of Development -->
+    <!-- Phase 1 -->
+    <g transform="translate(40, 50)">
+      <rect x="0" y="0" width="250" height="260" rx="8" fill="#1c1e28" stroke="#333746" stroke-width="1"/>
+      <text x="25" y="45" fill="#d4af37" font-family="sans-serif" font-size="20" font-weight="700">PHASE 01</text>
+      <text x="25" y="90" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">Sonic Identity</text>
+      <line x1="25" y1="125" x2="225" y2="125" stroke="#2a2d39" stroke-width="1"/>
+      <text x="25" y="175" fill="#34d399" font-family="sans-serif" font-size="20">✓ 10-Song Arc</text>
+    </g>
+
+    <!-- Phase 2 -->
+    <g transform="translate(320, 50)">
+      <rect x="0" y="0" width="250" height="260" rx="8" fill="#1c1e28" stroke="#333746" stroke-width="1"/>
+      <text x="25" y="45" fill="#38bdf8" font-family="sans-serif" font-size="20" font-weight="700">PHASE 02</text>
+      <text x="25" y="90" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">Visual Universe</text>
+      <line x1="25" y1="125" x2="225" y2="125" stroke="#2a2d39" stroke-width="1"/>
+      <text x="25" y="175" fill="#34d399" font-family="sans-serif" font-size="20">✓ Full Style Guide</text>
+    </g>
+
+    <!-- Phase 3 -->
+    <g transform="translate(600, 50)">
+      <rect x="0" y="0" width="250" height="260" rx="8" fill="#1c1e28" stroke="#333746" stroke-width="1"/>
+      <text x="25" y="45" fill="#a855f7" font-family="sans-serif" font-size="20" font-weight="700">PHASE 03</text>
+      <text x="25" y="90" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">Audience Funnel</text>
+      <line x1="25" y1="125" x2="225" y2="125" stroke="#2a2d39" stroke-width="1"/>
+      <text x="25" y="175" fill="#34d399" font-family="sans-serif" font-size="20">✓ 89% Algorithmic</text>
+    </g>
+
+    <!-- Phase 4 -->
+    <g transform="translate(880, 50)">
+      <rect x="0" y="0" width="240" height="260" rx="8" fill="#1c1e28" stroke="#10b981" stroke-width="1.5"/>
+      <text x="25" y="45" fill="#10b981" font-family="sans-serif" font-size="20" font-weight="700">PHASE 04</text>
+      <text x="25" y="90" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">Monetization</text>
+      <line x1="25" y1="125" x2="215" y2="125" stroke="#2a2d39" stroke-width="1"/>
+      <text x="25" y="175" fill="#34d399" font-family="sans-serif" font-size="20">✓ Artist Business</text>
+    </g>
+
+    <!-- Case Study Footer Bar -->
+    <g transform="translate(40, 380)">
+      <text x="0" y="30" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="700">
+        Vade Mey — Multi-Release Growth (Case Study: Now Listen PR)
+      </text>
+      <text x="0" y="64" fill="#9ca3af" font-family="sans-serif" font-size="20">
+        Result: 89% of audience sustainably acquired through Spotify recommendation algorithms;
+      </text>
+      <text x="0" y="92" fill="#9ca3af" font-family="sans-serif" font-size="20">
+        320,000+ streams from 171,000 listeners in year one.
+      </text>
+    </g>
+  </g>
+</svg>

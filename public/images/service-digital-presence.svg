@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="webBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#131418"/>
+      <stop offset="100%" stop-color="#0a0a0d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#webBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181920"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#262834" stroke-width="1"/>
+  <text x="60" y="44" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700" letter-spacing="1">
+    DIGITAL PRESENCE — ARTIST WEBSITE &amp; STREAMING HUB
+  </text>
+  <rect x="970" y="18" width="250" height="34" rx="4" fill="#3b82f6"/>
+  <text x="1095" y="42" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="800">
+    +240% SITE TRAFFIC
+  </text>
+
+  <!-- Multi-Device Mockup Presentation -->
+  <g transform="translate(60, 95)">
+    <rect x="0" y="0" width="1160" height="570" rx="8" fill="#15171e" stroke="#292c38" stroke-width="1.5"/>
+
+    <!-- Desktop Browser Window Frame -->
+    <rect x="60" y="40" width="800" height="420" rx="8" fill="#1c1f29" stroke="#373b4a" stroke-width="1.5"/>
+    <!-- Browser Top Bar -->
+    <rect x="60" y="40" width="800" height="36" rx="8" fill="#242834"/>
+    <circle cx="85" cy="58" r="5" fill="#ef4444"/>
+    <circle cx="102" cy="58" r="5" fill="#f59e0b"/>
+    <circle cx="119" cy="58" r="5" fill="#10b981"/>
+    <rect x="180" y="46" width="440" height="24" rx="12" fill="#171821"/>
+    <text x="400" y="64" text-anchor="middle" fill="#9ca3af" font-family="sans-serif" font-size="20">artist-official.com/tour</text>
+
+    <!-- Web Page Hero Inside Browser -->
+    <rect x="60" y="76" width="800" height="384" fill="#161821"/>
+    <text x="100" y="145" fill="#d4af37" font-family="sans-serif" font-size="20" font-weight="700" letter-spacing="2">NEW ALBUM STREAMING WORLDWIDE</text>
+    <text x="100" y="195" fill="#ffffff" font-family="sans-serif" font-size="38" font-weight="800">HIGH FIDELITY TOUR 2026</text>
+    <rect x="100" y="215" width="240" height="42" rx="4" fill="#d4af37"/>
+    <text x="220" y="243" text-anchor="middle" fill="#000000" font-family="sans-serif" font-size="20" font-weight="800">LISTEN ON SPOTIFY</text>
+
+    <!-- Smartphone Mobile Mockup Overlapping Right Side -->
+    <g transform="translate(740, 80)">
+      <rect x="0" y="0" width="220" height="420" rx="24" fill="#12131a" stroke="#d4af37" stroke-width="2"/>
+      <rect x="80" y="12" width="60" height="12" rx="6" fill="#000000"/>
+      <!-- Mobile content -->
+      <rect x="12" y="35" width="196" height="365" rx="16" fill="#191c26"/>
+      <text x="110" y="110" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="800">MOBILE HUB</text>
+      <text x="110" y="138" text-anchor="middle" fill="#9ca3af" font-family="sans-serif" font-size="20">Links &amp; Merch</text>
+      <!-- Smart links -->
+      <rect x="25" y="165" width="170" height="36" rx="6" fill="#242836"/>
+      <text x="110" y="190" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20">Spotify Stream</text>
+      <rect x="25" y="212" width="170" height="36" rx="6" fill="#242836"/>
+      <text x="110" y="237" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20">Tour Tickets</text>
+      <rect x="25" y="259" width="170" height="36" rx="6" fill="#242836"/>
+      <text x="110" y="284" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20">Official Store</text>
+    </g>
+
+    <!-- Bottom Case Study Info -->
+    <g transform="translate(60, 495)">
+      <text x="0" y="28" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="700">
+        Australian Bass Producer (Fred &amp; Augustus Rebuild) • +88% Avg Time on Site
+      </text>
+    </g>
+  </g>
+</svg>

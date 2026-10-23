@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="socBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121317"/>
+      <stop offset="100%" stop-color="#0a0a0d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#socBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181920"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#252733" stroke-width="1"/>
+  <text x="60" y="44" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700" letter-spacing="1">
+    SOCIAL CONTENT &amp; VIRAL CAMPAIGN ARCHITECTURE
+  </text>
+  <rect x="970" y="18" width="250" height="34" rx="4" fill="#06b6d4"/>
+  <text x="1095" y="42" text-anchor="middle" fill="#000000" font-family="sans-serif" font-size="20" font-weight="800">
+    47K+ TEMPLATE USES
+  </text>
+
+  <!-- Metric Overview -->
+  <g transform="translate(60, 95)">
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#181a22" stroke="#282b36" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="20" font-weight="700">CAPCUT TEMPLATES</text>
+      <text x="24" y="80" fill="#06b6d4" font-family="sans-serif" font-size="38" font-weight="700">47,000+</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="20">Organic creator UGC</text>
+    </g>
+
+    <g transform="translate(295, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#181a22" stroke="#282b36" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="20" font-weight="700">TOTAL IMPRESSIONS</text>
+      <text x="24" y="80" fill="#f43f5e" font-family="sans-serif" font-size="38" font-weight="700">5M+</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="20">Direct placements</text>
+    </g>
+
+    <g transform="translate(590, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#181a22" stroke="#282b36" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="20" font-weight="700">TIKTOK SOUND LIFT</text>
+      <text x="24" y="80" fill="#d4af37" font-family="sans-serif" font-size="38" font-weight="700">+820%</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="20">Audio creation velocity</text>
+    </g>
+
+    <g transform="translate(885, 0)">
+      <rect x="0" y="0" width="275" height="120" rx="8" fill="#181a22" stroke="#282b36" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="20" font-weight="700">SPARK ADS CAMPAIGN</text>
+      <text x="24" y="80" fill="#a855f7" font-family="sans-serif" font-size="30" font-weight="700">Warner LatAm</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="20">Maná — Eres Mi Religión</text>
+    </g>
+  </g>
+
+  <!-- Mobile Screen Vertical Mockup Display -->
+  <g transform="translate(60, 245)">
+    <rect x="0" y="0" width="1160" height="420" rx="8" fill="#15171d" stroke="#282a35" stroke-width="1.5"/>
+    <text x="30" y="44" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">
+      VERTICAL VIDEO CAMPAIGN ASSETS (INSTAGRAM REELS / TIKTOK / YOUTUBE SHORTS)
+    </text>
+
+    <!-- 3 Smartphone Frame Mockups -->
+    <!-- Phone 1 -->
+    <g transform="translate(100, 65)">
+      <rect x="0" y="0" width="260" height="320" rx="20" fill="#1c1f28" stroke="#333745" stroke-width="2"/>
+      <rect x="100" y="8" width="60" height="10" rx="5" fill="#000000"/>
+      <rect x="10" y="25" width="240" height="270" rx="10" fill="#252a38"/>
+      <circle cx="130" cy="140" r="30" fill="#f43f5e" opacity="0.3"/>
+      <polygon points="125,125 145,140 125,155" fill="#ffffff"/>
+      <text x="130" y="240" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="700">LYRICS OVERLAY</text>
+      <text x="130" y="268" text-anchor="middle" fill="#06b6d4" font-family="sans-serif" font-size="20">CapCut Feature Spot</text>
+    </g>
+
+    <!-- Phone 2 -->
+    <g transform="translate(450, 65)">
+      <rect x="0" y="0" width="260" height="320" rx="20" fill="#1c1f28" stroke="#d4af37" stroke-width="2"/>
+      <rect x="100" y="8" width="60" height="10" rx="5" fill="#000000"/>
+      <rect x="10" y="25" width="240" height="270" rx="10" fill="#20232e"/>
+      <circle cx="130" cy="140" r="30" fill="#d4af37" opacity="0.3"/>
+      <polygon points="125,125 145,140 125,155" fill="#ffffff"/>
+      <text x="130" y="240" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="700">VIRAL AUDIO CUT</text>
+      <text x="130" y="268" text-anchor="middle" fill="#d4af37" font-family="sans-serif" font-size="20">TopView &amp; Spark Ads</text>
+    </g>
+
+    <!-- Phone 3 -->
+    <g transform="translate(800, 65)">
+      <rect x="0" y="0" width="260" height="320" rx="20" fill="#1c1f28" stroke="#333745" stroke-width="2"/>
+      <rect x="100" y="8" width="60" height="10" rx="5" fill="#000000"/>
+      <rect x="10" y="25" width="240" height="270" rx="10" fill="#252a38"/>
+      <circle cx="130" cy="140" r="30" fill="#a855f7" opacity="0.3"/>
+      <polygon points="125,125 145,140 125,155" fill="#ffffff"/>
+      <text x="130" y="240" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="700">RELEASE TEASER</text>
+      <text x="130" y="268" text-anchor="middle" fill="#a855f7" font-family="sans-serif" font-size="20">Spotify Pre-Save Link</text>
+    </g>
+  </g>
+</svg>

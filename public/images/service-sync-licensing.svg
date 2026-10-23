@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="syncBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141419"/>
+      <stop offset="100%" stop-color="#0a0b0d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#syncBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181a20"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#272a33" stroke-width="1"/>
+  <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    SYNC LICENSING &amp; CUE SHEET CLEARANCE DISPATCH
+  </text>
+  <rect x="1050" y="18" width="170" height="34" rx="4" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <text x="1135" y="40" text-anchor="middle" fill="#38bdf8" font-family="sans-serif" font-size="12" font-weight="700">
+    $19,700 YR-1 SYNC YIELD
+  </text>
+
+  <!-- Six Placement Cards: 3x2 Grid -->
+  <g transform="translate(60, 95)">
+    <!-- Card 1: SVOD Series -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="360" height="210" rx="8" fill="#191b22" stroke="#2c303c" stroke-width="1"/>
+      <circle cx="330" cy="32" r="16" fill="#ef4444" opacity="0.15"/>
+      <polygon points="325,24 340,32 325,40" fill="#ef4444"/>
+      <rect x="14" y="16" width="96" height="22" rx="4" fill="#ef4444"/>
+      <text x="62" y="32" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="700">SVOD SERIES</text>
+      <text x="14" y="68" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">Global Drama Series Episode</text>
+      <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Background Instrumental Cue</text>
+      <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: Worldwide Streaming (190+ Countries)</text>
+      <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
+      <text x="14" y="162" fill="#ef4444" font-family="sans-serif" font-size="20" font-weight="700">$4,500 <tspan font-size="11" fill="#9ca3af">Upfront Fee</tspan></text>
+      <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Full stems + ASCAP cue sheet filed</text>
+    </g>
+
+    <!-- Card 2: SVOD Series (Thriller) -->
+    <g transform="translate(400, 0)">
+      <rect x="0" y="0" width="360" height="210" rx="8" fill="#191b22" stroke="#2c303c" stroke-width="1"/>
+      <circle cx="330" cy="32" r="16" fill="#ef4444" opacity="0.15"/>
+      <polygon points="325,24 340,32 325,40" fill="#ef4444"/>
+      <rect x="14" y="16" width="96" height="22" rx="4" fill="#ef4444"/>
+      <text x="62" y="32" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="700">SVOD SERIES</text>
+      <text x="14" y="68" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">Streaming Thriller Finale</text>
+      <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Underscore Dialogue Bed</text>
+      <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: Worldwide (12 Territories)</text>
+      <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
+      <text x="14" y="162" fill="#ef4444" font-family="sans-serif" font-size="20" font-weight="700">$1,500 <tspan font-size="11" fill="#9ca3af">Upfront Fee</tspan></text>
+      <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Non-exclusive • 2-year term</text>
+    </g>
+
+    <!-- Card 3: Commercial Ad (Automotive) -->
+    <g transform="translate(800, 0)">
+      <rect x="0" y="0" width="360" height="210" rx="8" fill="#191b22" stroke="#2c303c" stroke-width="1"/>
+      <circle cx="330" cy="32" r="16" fill="#3b82f6" opacity="0.15"/>
+      <polygon points="325,24 340,32 325,40" fill="#3b82f6"/>
+      <rect x="14" y="16" width="96" height="22" rx="4" fill="#3b82f6"/>
+      <text x="62" y="32" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="700">COMMERCIAL AD</text>
+      <text x="14" y="68" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">Automotive Brand Campaign</text>
+      <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Hero Campaign Track (60s TV &amp; Web)</text>
+      <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: North America &amp; UK (1-Year Term)</text>
+      <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
+      <text x="14" y="162" fill="#3b82f6" font-family="sans-serif" font-size="20" font-weight="700">$8,000 <tspan font-size="11" fill="#9ca3af">Master + Sync Fee</tspan></text>
+      <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">30s cutdowns + loop stems provided</text>
+    </g>
+
+    <!-- Card 4: Commercial Ad (Sports) -->
+    <g transform="translate(0, 230)">
+      <rect x="0" y="0" width="360" height="210" rx="8" fill="#191b22" stroke="#2c303c" stroke-width="1"/>
+      <circle cx="330" cy="32" r="16" fill="#3b82f6" opacity="0.15"/>
+      <polygon points="325,24 340,32 325,40" fill="#3b82f6"/>
+      <rect x="14" y="16" width="96" height="22" rx="4" fill="#3b82f6"/>
+      <text x="62" y="32" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="700">COMMERCIAL AD</text>
+      <text x="14" y="68" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">Sports Apparel Spot</text>
+      <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: 30s Social Cutdown</text>
+      <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: North America (6-Month Term)</text>
+      <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
+      <text x="14" y="162" fill="#3b82f6" font-family="sans-serif" font-size="20" font-weight="700">$1,200 <tspan font-size="11" fill="#9ca3af">Master + Sync Fee</tspan></text>
+      <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Publishing pre-cleared</text>
+    </g>
+
+    <!-- Card 5: Film Trailer (Feature) -->
+    <g transform="translate(400, 230)">
+      <rect x="0" y="0" width="360" height="210" rx="8" fill="#191b22" stroke="#2c303c" stroke-width="1"/>
+      <circle cx="330" cy="32" r="16" fill="#a855f7" opacity="0.15"/>
+      <polygon points="325,24 340,32 325,40" fill="#a855f7"/>
+      <rect x="14" y="16" width="96" height="22" rx="4" fill="#a855f7"/>
+      <text x="62" y="32" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="700">FILM TRAILER</text>
+      <text x="14" y="68" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">Independent Feature Film</text>
+      <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Theatrical Trailer &amp; End Credits</text>
+      <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: Worldwide Theatrical &amp; Digital</text>
+      <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
+      <text x="14" y="162" fill="#a855f7" font-family="sans-serif" font-size="20" font-weight="700">$3,000 <tspan font-size="11" fill="#9ca3af">Sync License</tspan></text>
+      <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">High-res 24-bit WAV stems delivered</text>
+    </g>
+
+    <!-- Card 6: Film Trailer (Documentary) -->
+    <g transform="translate(800, 230)">
+      <rect x="0" y="0" width="360" height="210" rx="8" fill="#191b22" stroke="#2c303c" stroke-width="1"/>
+      <circle cx="330" cy="32" r="16" fill="#a855f7" opacity="0.15"/>
+      <polygon points="325,24 340,32 325,40" fill="#a855f7"/>
+      <rect x="14" y="16" width="96" height="22" rx="4" fill="#a855f7"/>
+      <text x="62" y="32" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="700">FILM TRAILER</text>
+      <text x="14" y="68" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">Documentary Series Trailer</text>
+      <text x="14" y="92" fill="#9ca3af" font-family="sans-serif" font-size="11">Placement: Main Title &amp; Credit Cue</text>
+      <text x="14" y="112" fill="#9ca3af" font-family="sans-serif" font-size="11">Territory: Festival + Streaming Rights</text>
+      <line x1="14" y1="130" x2="346" y2="130" stroke="#282b35" stroke-width="1"/>
+      <text x="14" y="162" fill="#a855f7" font-family="sans-serif" font-size="20" font-weight="700">$1,500 <tspan font-size="11" fill="#9ca3af">Sync License</tspan></text>
+      <text x="14" y="190" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="600">Festival circuit placements secured</text>
+    </g>
+  </g>
+
+  <!-- Bottom Readiness Stat Bar -->
+  <g transform="translate(60, 580)">
+    <rect x="0" y="0" width="1160" height="85" rx="8" fill="#16181f" stroke="#282b35" stroke-width="1"/>
+    <text x="30" y="46" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="600">
+      CATALOG SYNC-READINESS AUDIT:
+    </text>
+    <text x="340" y="46" fill="#9ca3af" font-family="sans-serif" font-size="13">
+      100% One-Stop Clearance • Full Instrumental Stems Available • Explicit Metadata Tagging (BPM/Key/Mood)
+    </text>
+    <text x="1080" y="46" fill="#d4af37" font-family="sans-serif" font-size="14" font-weight="700">6 PLACEMENTS</text>
+  </g>
+</svg>

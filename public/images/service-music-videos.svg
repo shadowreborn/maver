@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="mvBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14151b"/>
+      <stop offset="50%" stop-color="#0c0d12"/>
+      <stop offset="100%" stop-color="#161822"/>
+    </linearGradient>
+    <radialGradient id="circusLight" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.35"/>
+      <stop offset="45%" stop-color="#a855f7" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#090a0d" stop-opacity="0.9"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#mvBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181922"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#262936" stroke-width="1"/>
+  <text x="60" y="44" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700" letter-spacing="1">
+    MUSIC VIDEOS — SURREAL CIRCUS &amp; ANIMATED NARRATIVE
+  </text>
+  <rect x="970" y="18" width="250" height="34" rx="4" fill="#f59e0b"/>
+  <text x="1095" y="42" text-anchor="middle" fill="#000000" font-family="sans-serif" font-size="20" font-weight="800">
+    6 WEEKS AT #1
+  </text>
+
+  <!-- Main Showcase Box -->
+  <g transform="translate(60, 95)">
+    <rect x="0" y="0" width="1160" height="570" rx="8" fill="url(#circusLight)" stroke="#2b2e3d" stroke-width="1.5"/>
+
+    <!-- Circus Big Top Stage Architecture & Spotlight Cones -->
+    <polygon points="580,40 160,340 1000,340" fill="#f59e0b" opacity="0.15"/>
+    <polygon points="580,40 320,460 840,460" fill="#a855f7" opacity="0.12"/>
+
+    <!-- Tent Canopy Arches (Circus Vibe) -->
+    <path d="M 120,120 Q 350,70 580,120 Q 810,70 1040,120" fill="none" stroke="#d4af37" stroke-width="3" opacity="0.5"/>
+    <path d="M 200,160 Q 580,100 960,160" fill="none" stroke="#f59e0b" stroke-width="2" opacity="0.4"/>
+
+    <!-- Surreal Circus Stage Ring / Platform -->
+    <ellipse cx="580" cy="380" rx="360" ry="90" fill="#181a26" stroke="#f59e0b" stroke-width="2.5"/>
+    <ellipse cx="580" cy="380" rx="280" ry="70" fill="none" stroke="#a855f7" stroke-width="1.5" stroke-dasharray="8,6"/>
+
+    <!-- Floating Symbolic Elements / Defiance & Rebirth Motifs -->
+    <circle cx="580" cy="270" r="55" fill="#f59e0b" opacity="0.3"/>
+    <polygon points="580,210 598,252 642,260 610,292 618,336 580,314 542,336 550,292 518,260 562,252" fill="#d4af37"/>
+
+    <!-- Title & Subtitle Display -->
+    <g transform="translate(580, 480)">
+      <text x="0" y="-35" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="34" font-weight="800" letter-spacing="2">
+        YONNYBOII — TAK SANGKA
+      </text>
+      <text x="0" y="2" text-anchor="middle" fill="#d4af37" font-family="sans-serif" font-size="20" font-weight="700" letter-spacing="1">
+        Surreal Circus World • Entrapment, Defiance &amp; Rebirth
+      </text>
+    </g>
+
+    <!-- Credit Footer inside Card -->
+    <line x1="60" y1="510" x2="1100" y2="510" stroke="#2e3242" stroke-width="1"/>
+    <text x="60" y="542" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="700">
+      Directed by Thaqif Saadon • Produced by Atypical Visual &amp; Studio Firepulse
+    </text>
+    <text x="1100" y="542" text-anchor="end" fill="#34d399" font-family="sans-serif" font-size="20" font-weight="700">
+      #1 MALAYSIA CARTA RIM
+    </text>
+  </g>
+</svg>

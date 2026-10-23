@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="motBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14151b"/>
+      <stop offset="100%" stop-color="#090a0d"/>
+    </linearGradient>
+    <linearGradient id="laserBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#motBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181a22"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#282b37" stroke-width="1"/>
+  <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    MOTION DESIGN — TOUR CONTENT &amp; CONCERT STAGE SCREENS
+  </text>
+  <rect x="1050" y="18" width="170" height="34" rx="4" fill="#db2777"/>
+  <text x="1135" y="40" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="700">
+    STADIUM LED VISUALS
+  </text>
+
+  <!-- Main Stage Screen Composition -->
+  <g transform="translate(60, 95)">
+    <rect x="0" y="0" width="1160" height="570" rx="8" fill="#12131a" stroke="#282a36" stroke-width="1.5"/>
+
+    <!-- Giant Concert LED Wall Panels -->
+    <!-- Left Screen Wing -->
+    <polygon points="40,120 280,160 280,480 40,440" fill="#1a1c26" stroke="#ec4899" stroke-width="1.5"/>
+    <!-- Center Hero Screen -->
+    <rect x="310" y="100" width="540" height="400" rx="4" fill="#1f2230" stroke="#d4af37" stroke-width="2"/>
+    <!-- Right Screen Wing -->
+    <polygon points="880,160 1120,120 1120,440 880,480" fill="#1a1c26" stroke="#3b82f6" stroke-width="1.5"/>
+
+    <!-- Visual Content Inside Center Screen -->
+    <g transform="translate(310, 100)">
+      <circle cx="270" cy="200" r="110" fill="none" stroke="url(#laserBeam)" stroke-width="4"/>
+      <circle cx="270" cy="200" r="70" fill="none" stroke="#d4af37" stroke-width="2" stroke-dasharray="8,4"/>
+      <text x="270" y="195" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="24" font-weight="900" letter-spacing="4">
+        TOUR MOTION
+      </text>
+      <text x="270" y="225" text-anchor="middle" fill="#ec4899" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="3">
+        LOLA INDIGO • PINK • ELTON JOHN
+      </text>
+    </g>
+
+    <!-- Stage Crowd Silhouette at Base -->
+    <path d="M40,550 Q200,530 400,545 T800,535 T1120,550 L1120,570 L40,570 Z" fill="#08090c"/>
+
+    <!-- Credits Card Bottom Left -->
+    <g transform="translate(40, 485)">
+      <text x="0" y="20" fill="#ffffff" font-family="sans-serif" font-size="13" font-weight="700">
+        CREDIT: MOTION FOR MUSIC
+      </text>
+      <text x="0" y="40" fill="#9ca3af" font-family="sans-serif" font-size="11">
+        LED screen &amp; projection content engineered for stadium &amp; festival acoustic rooms.
+      </text>
+    </g>
+  </g>
+</svg>

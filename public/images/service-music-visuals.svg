@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="visBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
+    </linearGradient>
+    <radialGradient id="particleGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d4af37" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#06b6d4" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#visBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#161821"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#252836" stroke-width="1"/>
+  <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    MUSIC VISUALS — AUDIO-RESPONSIVE PARTICLE &amp; WAVEFORM SYSTEMS
+  </text>
+  <rect x="1050" y="18" width="170" height="34" rx="4" fill="#0891b2"/>
+  <text x="1135" y="40" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="700">
+    AUDIO REACTIVE
+  </text>
+
+  <!-- Particle Visual Field -->
+  <g transform="translate(60, 95)">
+    <rect x="0" y="0" width="1160" height="570" rx="8" fill="#101217" stroke="#252834" stroke-width="1.5"/>
+
+    <!-- Central Glowing Particle Core -->
+    <circle cx="580" cy="270" r="180" fill="url(#particleGlow)"/>
+
+    <!-- Concentric Audio Wave Rings -->
+    <circle cx="580" cy="270" r="140" fill="none" stroke="#d4af37" stroke-width="1.5" stroke-dasharray="12,6"/>
+    <circle cx="580" cy="270" r="220" fill="none" stroke="#06b6d4" stroke-width="1" stroke-dasharray="4,8"/>
+    <circle cx="580" cy="270" r="280" fill="none" stroke="#d4af37" stroke-width="0.75" stroke-dasharray="2,12"/>
+
+    <!-- Floating Particles -->
+    <circle cx="580" cy="350" r="2" fill="#d4af37" opacity="0.7"/><circle cx="633.9357262297925" cy="344.7371094952722" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="680.2658444323179" cy="323.45845727127715" r="4" fill="#d4af37" opacity="0.7"/><circle cx="708.7954832331191" cy="289.4915951512807" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="712.4432777994346" cy="249.09740728823598" r="2" fill="#d4af37" opacity="0.7"/><circle cx="688.930247564309" cy="210.3235058413398" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="641.5427027536715" cy="181.400930082328" r="4" fill="#d4af37" opacity="0.7"/><circle cx="578.755727389662" cy="169.00356949439447" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="512.7368926191824" cy="176.73712470124872" r="2" fill="#d4af37" opacity="0.7"/><circle cx="456.9900603095136" cy="204.19474571176352" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="423.5951811735845" cy="246.81246206261423" r="4" fill="#d4af37" opacity="0.7"/><circle cx="420.6078966181014" cy="296.598103053853" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="450.17556609059415" cy="343.62437360934564" r="2" fill="#d4af37" opacity="0.7"/><circle cx="507.80058893154427" cy="378.0083602127112" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="582.9592464852456" cy="391.98275363877667" r="4" fill="#d4af37" opacity="0.7"/><circle cx="661.0079332805112" cy="381.6257930861346" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="726.0348869482442" cy="347.86896826012855" r="2" fill="#d4af37" opacity="0.7"/><circle cx="764.1023431450055" cy="296.5366715820797" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="766.2188436822565" cy="237.365083399404" r="4" fill="#d4af37" opacity="0.7"/><circle cx="730.4106267460274" cy="182.16008440324455" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="662.4236970483513" cy="142.44176333614524" r="2" fill="#d4af37" opacity="0.7"/><circle cx="574.8552495106933" cy="127.04548240408357" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="484.83253409473315" cy="140.1780917166973" r="4" fill="#d4af37" opacity="0.7"/><circle cx="410.66407262698795" cy="180.3530693911928" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="368.1177743056378" cy="240.4618542187891" r="2" fill="#d4af37" opacity="0.7"/><circle cx="367.0822405475225" cy="309.01189576112193" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="409.31567720213684" cy="372.3202215073126" r="4" fill="#d4af37" opacity="0.7"/><circle cx="487.78680839039606" cy="417.24461775494524" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="587.8005469553037" cy="433.90727202216476" r="2" fill="#d4af37" opacity="0.7"/><circle cx="689.7389082012762" cy="417.84728933867734" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="772.908262372389" cy="371.13651276268166" r="4" fill="#d4af37" opacity="0.7"/><circle cx="819.7386234175024" cy="302.191159245313" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="819.4831285842208" cy="224.27214530637897" r="2" fill="#d4af37" opacity="0.7"/><circle cx="770.641062213593" cy="152.93764514006386" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="681.5655867214367" cy="102.93659796459863" r="4" fill="#d4af37" opacity="0.7"/><circle cx="569.0736682931014" cy="85.16343146424921" r="5" fill="#06b6d4" opacity="0.7"/><circle cx="455.2805955908049" cy="104.30197181189988" r="2" fill="#d4af37" opacity="0.7"/><circle cx="363.2529458439044" cy="157.66487353053554" r="3" fill="#06b6d4" opacity="0.7"/><circle cx="312.334318617793" cy="235.50504020211557" r="4" fill="#d4af37" opacity="0.7"/><circle cx="314.090753215642" cy="322.78155944112325" r="5" fill="#06b6d4" opacity="0.7"/>
+
+    <text x="580" y="265" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="24" font-weight="800" letter-spacing="3">
+      TRANSFORMATIONS
+    </text>
+    <text x="580" y="295" text-anchor="middle" fill="#d4af37" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2">
+      NOVA MUSIC / UNIVERSAL MUSIC • DESIGN FOR MUSIC
+    </text>
+
+    <!-- Bottom Legend -->
+    <g transform="translate(40, 500)">
+      <text x="0" y="20" fill="#9ca3af" font-family="sans-serif" font-size="12">
+        Audio-responsive generative particle system reacting to frequency velocity, transient drops, and harmonic depth.
+      </text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="distBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141518"/>
+      <stop offset="100%" stop-color="#0c0d0f"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d2027"/>
+      <stop offset="100%" stop-color="#15171d"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#distBg)"/>
+
+  <!-- Top Nav Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#181a20"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#2a2e38" stroke-width="1"/>
+  
+  <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    GLOBAL DIGITAL DISTRIBUTION PORTAL
+  </text>
+  <rect x="1060" y="18" width="160" height="34" rx="4" fill="#059669"/>
+  <text x="1140" y="40" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="700">
+    ● DELIVERED (200+ DSPs)
+  </text>
+
+  <!-- Release Summary Banner -->
+  <g transform="translate(60, 95)">
+    <rect x="0" y="0" width="1160" height="140" rx="8" fill="url(#cardGrad)" stroke="#2d323e" stroke-width="1.5"/>
+    
+    <!-- Album Artwork Thumbnail Mock -->
+    <rect x="25" y="20" width="100" height="100" rx="6" fill="#2d3240"/>
+    <circle cx="75" cy="70" r="30" fill="#3b82f6" opacity="0.4"/>
+    <polygon points="65,55 90,70 65,85" fill="#ffffff"/>
+
+    <text x="150" y="52" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">
+      CARYS — ~waves~ EP
+    </text>
+    <text x="150" y="78" fill="#9ca3af" font-family="sans-serif" font-size="13">
+      UPC: 840192849102 • ISRC: US-QY5-24-00192 • Primary Genre: Indie Pop / Electronic
+    </text>
+    <text x="150" y="104" fill="#34d399" font-family="sans-serif" font-size="13" font-weight="600">
+      ✓ Delivered to 200+ Global Platforms • Pre-Save Campaign: 46 Editorial Playlist Adds
+    </text>
+
+    <!-- Metrics pills on the right -->
+    <rect x="860" y="35" width="120" height="70" rx="6" fill="#242833"/>
+    <text x="920" y="62" text-anchor="middle" fill="#d4af37" font-family="sans-serif" font-size="22" font-weight="700">200+</text>
+    <text x="920" y="85" text-anchor="middle" fill="#9ca3af" font-family="sans-serif" font-size="10" font-weight="600">GLOBAL DSPS</text>
+
+    <rect x="1000" y="35" width="135" height="70" rx="6" fill="#242833"/>
+    <text x="1067" y="62" text-anchor="middle" fill="#38bdf8" font-family="sans-serif" font-size="22" font-weight="700">46</text>
+    <text x="1067" y="85" text-anchor="middle" fill="#9ca3af" font-family="sans-serif" font-size="10" font-weight="600">PLAYLIST ADDS</text>
+  </g>
+
+  <!-- Distribution Store Status Grid -->
+  <g transform="translate(60, 260)">
+    <text x="0" y="0" fill="#9ca3af" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1">
+      STREAMING SERVICE DELIVERY STATUS &amp; INGESTION LOG
+    </text>
+
+    <!-- Platform Cards (Grid) -->
+    <!-- Card 1: Spotify -->
+    <g transform="translate(0, 20)">
+      <rect x="0" y="0" width="275" height="180" rx="8" fill="#1b1d24" stroke="#2d323e" stroke-width="1"/>
+      <circle cx="36" cy="36" r="16" fill="#1DB954"/>
+      <text x="64" y="42" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="700">Spotify</text>
+      <text x="20" y="85" fill="#9ca3af" font-family="sans-serif" font-size="12">Delivery: <tspan fill="#34d399">Instant Live</tspan></text>
+      <text x="20" y="110" fill="#9ca3af" font-family="sans-serif" font-size="12">Audio: OGG 320kbps Master</text>
+      <text x="20" y="135" fill="#9ca3af" font-family="sans-serif" font-size="12">Canvas Video: Linked &amp; Looping</text>
+      <rect x="20" y="148" width="235" height="4" rx="2" fill="#1DB954"/>
+    </g>
+
+    <!-- Card 2: Apple Music -->
+    <g transform="translate(295, 20)">
+      <rect x="0" y="0" width="275" height="180" rx="8" fill="#1b1d24" stroke="#2d323e" stroke-width="1"/>
+      <circle cx="36" cy="36" r="16" fill="#FC3C44"/>
+      <text x="64" y="42" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="700">Apple Music</text>
+      <text x="20" y="85" fill="#9ca3af" font-family="sans-serif" font-size="12">Delivery: <tspan fill="#34d399">Instant Live</tspan></text>
+      <text x="20" y="110" fill="#9ca3af" font-family="sans-serif" font-size="12">Audio: Lossless / Apple Digital Master</text>
+      <text x="20" y="135" fill="#9ca3af" font-family="sans-serif" font-size="12">Motion Album Art: Verified</text>
+      <rect x="20" y="148" width="235" height="4" rx="2" fill="#FC3C44"/>
+    </g>
+
+    <!-- Card 3: Amazon Music -->
+    <g transform="translate(590, 20)">
+      <rect x="0" y="0" width="275" height="180" rx="8" fill="#1b1d24" stroke="#2d323e" stroke-width="1"/>
+      <circle cx="36" cy="36" r="16" fill="#00A8E1"/>
+      <text x="64" y="42" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="700">Amazon Music</text>
+      <text x="20" y="85" fill="#9ca3af" font-family="sans-serif" font-size="12">Delivery: <tspan fill="#34d399">Instant Live</tspan></text>
+      <text x="20" y="110" fill="#9ca3af" font-family="sans-serif" font-size="12">Audio: Ultra HD 24-bit Flac</text>
+      <text x="20" y="135" fill="#9ca3af" font-family="sans-serif" font-size="12">Alexa Voice Search: Indexed</text>
+      <rect x="20" y="148" width="235" height="4" rx="2" fill="#00A8E1"/>
+    </g>
+
+    <!-- Card 4: YouTube & Content ID -->
+    <g transform="translate(885, 20)">
+      <rect x="0" y="0" width="275" height="180" rx="8" fill="#1b1d24" stroke="#2d323e" stroke-width="1"/>
+      <circle cx="36" cy="36" r="16" fill="#FF0000"/>
+      <text x="64" y="42" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="700">YouTube Music</text>
+      <text x="20" y="85" fill="#9ca3af" font-family="sans-serif" font-size="12">Delivery: <tspan fill="#34d399">Instant Live</tspan></text>
+      <text x="20" y="110" fill="#9ca3af" font-family="sans-serif" font-size="12">Art Track Auto-Generated: Yes</text>
+      <text x="20" y="135" fill="#9ca3af" font-family="sans-serif" font-size="12">Content ID Match: Active</text>
+      <rect x="20" y="148" width="235" height="4" rx="2" fill="#FF0000"/>
+    </g>
+
+    <!-- Additional Platforms Bar -->
+    <g transform="translate(0, 220)">
+      <rect x="0" y="0" width="1160" height="75" rx="8" fill="#171920" stroke="#282b35" stroke-width="1"/>
+      <text x="24" y="42" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="600">
+        ADDITIONAL PLATFORMS SYNCHRONIZED:
+      </text>
+      <text x="350" y="42" fill="#9ca3af" font-family="sans-serif" font-size="13">
+        TIDAL (Hi-Res MQA) • Beatport • Deezer • TikTok Sound Library • Pandora • Boomplay • Shazam
+      </text>
+      <text x="1080" y="42" fill="#34d399" font-family="sans-serif" font-size="13" font-weight="700">✓ 100% OK</text>
+    </g>
+  </g>
+</svg>

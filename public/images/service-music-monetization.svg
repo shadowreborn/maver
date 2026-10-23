@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="monBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141517"/>
+      <stop offset="100%" stop-color="#0d0e10"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#monBg)"/>
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="1280" height="70" fill="#18191e"/>
+  <line x1="0" y1="70" x2="1280" y2="70" stroke="#292c36" stroke-width="1"/>
+  <text x="60" y="42" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    YOUTUBE CONTENT ID &amp; DIGITAL ROYALTY RECOVERY ENGINE
+  </text>
+  <rect x="1020" y="18" width="200" height="34" rx="4" fill="#047857"/>
+  <text x="1120" y="41" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="700">
+    +340% REVENUE RECOVERY
+  </text>
+
+  <!-- Metric Overview 4 Cards -->
+  <g transform="translate(60, 95)">
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#1a1c22" stroke="#2d303b" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="15" font-weight="700">CLAIMED UGC VIDEOS</text>
+      <text x="24" y="80" fill="#10b981" font-family="sans-serif" font-size="38" font-weight="700">450+</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="14">Gaming, vlogs, Shorts monetized</text>
+    </g>
+
+    <g transform="translate(295, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#1a1c22" stroke="#2d303b" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="15" font-weight="700">PASSIVE REVENUE SHARE</text>
+      <text x="24" y="80" fill="#38bdf8" font-family="sans-serif" font-size="38" font-weight="700">65%</text>
+      <text x="24" y="104" fill="#9ca3af" font-family="sans-serif" font-size="14">From fan &amp; creator UGC uploads</text>
+    </g>
+
+    <g transform="translate(590, 0)">
+      <rect x="0" y="0" width="270" height="120" rx="8" fill="#1a1c22" stroke="#2d303b" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="15" font-weight="700">COPYRIGHT POLICY</text>
+      <text x="24" y="80" fill="#d4af37" font-family="sans-serif" font-size="32" font-weight="700">Monetize</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="14">0 copyright strikes issued</text>
+    </g>
+
+    <g transform="translate(885, 0)">
+      <rect x="0" y="0" width="275" height="120" rx="8" fill="#1a1c22" stroke="#2d303b" stroke-width="1"/>
+      <text x="24" y="36" fill="#9ca3af" font-family="sans-serif" font-size="15" font-weight="700">PUBLISHING &amp; MECHANICALS</text>
+      <text x="24" y="80" fill="#a855f7" font-family="sans-serif" font-size="32" font-weight="700">100% Linked</text>
+      <text x="24" y="104" fill="#34d399" font-family="sans-serif" font-size="14">Songwriting splits collected</text>
+    </g>
+  </g>
+
+  <!-- Live Content ID Claim Log Mockup -->
+  <g transform="translate(60, 245)">
+    <rect x="0" y="0" width="1160" height="420" rx="8" fill="#15171d" stroke="#292c36" stroke-width="1.5"/>
+    <text x="30" y="40" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">
+      RECENT AUTOMATED ASSET MATCHES &amp; MONETIZATION CLAIMS
+    </text>
+
+    <!-- Table Header -->
+    <rect x="30" y="60" width="1100" height="34" rx="4" fill="#20232c"/>
+    <text x="50" y="83" fill="#9ca3af" font-family="sans-serif" font-size="14" font-weight="700">MATCHED VIDEO TITLE</text>
+    <text x="450" y="83" fill="#9ca3af" font-family="sans-serif" font-size="14" font-weight="700">CHANNEL / CREATOR</text>
+    <text x="700" y="83" fill="#9ca3af" font-family="sans-serif" font-size="14" font-weight="700">VIEWS</text>
+    <text x="850" y="83" fill="#9ca3af" font-family="sans-serif" font-size="14" font-weight="700">POLICY</text>
+    <text x="1000" y="83" fill="#9ca3af" font-family="sans-serif" font-size="14" font-weight="700">STATUS</text>
+
+    <!-- Row 1 -->
+    <text x="50" y="126" fill="#ffffff" font-family="sans-serif" font-size="15">Night City Driving Vibes (1-Hour Lo-Fi Mix)</text>
+    <text x="450" y="126" fill="#9ca3af" font-family="sans-serif" font-size="15">Chillhop Community (1.2M subs)</text>
+    <text x="700" y="126" fill="#e2e8f0" font-family="sans-serif" font-size="15">840,000</text>
+    <text x="850" y="126" fill="#d4af37" font-family="sans-serif" font-size="15">Monetize</text>
+    <text x="1000" y="126" fill="#34d399" font-family="sans-serif" font-size="15" font-weight="600">✓ Earning</text>
+    <line x1="30" y1="145" x2="1130" y2="145" stroke="#22252e" stroke-width="1"/>
+
+    <!-- Row 2 -->
+    <text x="50" y="181" fill="#ffffff" font-family="sans-serif" font-size="15">Tokyo Drift Reel &amp; TikTok Compilation #42</text>
+    <text x="450" y="181" fill="#9ca3af" font-family="sans-serif" font-size="15">SpeedTuning Japan (420k subs)</text>
+    <text x="700" y="181" fill="#e2e8f0" font-family="sans-serif" font-size="15">2,150,000</text>
+    <text x="850" y="181" fill="#d4af37" font-family="sans-serif" font-size="15">Monetize</text>
+    <text x="1000" y="181" fill="#34d399" font-family="sans-serif" font-size="15" font-weight="600">✓ Earning</text>
+    <line x1="30" y1="200" x2="1130" y2="200" stroke="#22252e" stroke-width="1"/>
+
+    <!-- Row 3 -->
+    <text x="50" y="236" fill="#ffffff" font-family="sans-serif" font-size="15">Cyberpunk 2077 Gameplay Montage — Boss Fight</text>
+    <text x="450" y="236" fill="#9ca3af" font-family="sans-serif" font-size="15">ApexGamerTV (180k subs)</text>
+    <text x="700" y="236" fill="#e2e8f0" font-family="sans-serif" font-size="15">315,000</text>
+    <text x="850" y="236" fill="#d4af37" font-family="sans-serif" font-size="15">Monetize</text>
+    <text x="1000" y="236" fill="#34d399" font-family="sans-serif" font-size="15" font-weight="600">✓ Earning</text>
+    <line x1="30" y1="255" x2="1130" y2="255" stroke="#22252e" stroke-width="1"/>
+
+    <!-- Row 4 -->
+    <text x="50" y="291" fill="#ffffff" font-family="sans-serif" font-size="15">Solo Dance Choreography — Studio Routine</text>
+    <text x="450" y="291" fill="#9ca3af" font-family="sans-serif" font-size="15">Elena Movement (85k subs)</text>
+    <text x="700" y="291" fill="#e2e8f0" font-family="sans-serif" font-size="15">190,000</text>
+    <text x="850" y="291" fill="#d4af37" font-family="sans-serif" font-size="15">Monetize</text>
+    <text x="1000" y="291" fill="#34d399" font-family="sans-serif" font-size="15" font-weight="600">✓ Earning</text>
+    <line x1="30" y1="310" x2="1130" y2="310" stroke="#22252e" stroke-width="1"/>
+
+    <!-- Bottom summary note -->
+    <text x="50" y="378" fill="#9ca3af" font-family="sans-serif" font-size="16">
+      Result: Ad revenue automatically routes to artist royalty wallet while preserving creator channel goodwill.
+    </text>
+  </g>
+</svg>
